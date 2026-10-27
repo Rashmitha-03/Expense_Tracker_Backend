@@ -14,7 +14,7 @@ A Spring Boot REST API for registering users, authenticating with JWT, and manag
 ## Prerequisites
 
 - JDK 17 or later
-- MySQL running locally
+- MySQL running locally/ workbench installed 
 
 ## Setup and run
 
