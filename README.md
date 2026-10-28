@@ -1,6 +1,6 @@
-# Expense Tracker API
+# Expense Tracker Backend
 
-A Spring Boot REST API for registering users, authenticating with JWT, and managing and summarizing expenses.
+A Spring Boot REST API for registering users, authenticating with JWT, and managing and summarizing expenses, along with dashboard to monitor the changes
 
 ## Technology
 
